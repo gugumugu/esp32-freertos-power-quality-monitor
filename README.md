@@ -233,11 +233,11 @@ Do not claim real mains measurement accuracy until the complete analog front-end
 - TinyML anomaly detection
 - Multi-phase monitoring
 
+
 ## Author
 
-**Pardhu Attili**
-
-GitHub: [@pardhuattili-web](https://github.com/pardhuattili-web)
+**Adarsh Sharma**
+GitHub: (https://github.com/gugumugu)
 
 ## Status
 
