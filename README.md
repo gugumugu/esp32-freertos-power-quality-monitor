@@ -235,7 +235,7 @@ Do not claim real mains measurement accuracy until the complete analog front-end
 
 
 ## Author
-
+---------------------
 **Adarsh Sharma**
 GitHub: (https://github.com/gugumugu)
 
